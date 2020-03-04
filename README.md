@@ -1,2 +1,0 @@
-# ReactReduxSimpleEx
-Created with CodeSandbox
